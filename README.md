@@ -1,2 +1,2 @@
 # dbscripts
-Database scripts
+Database scripts I find useful
